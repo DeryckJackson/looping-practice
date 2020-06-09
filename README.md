@@ -1,17 +1,17 @@
-# Title
+# Looping practice
 
 #### Latest version date
 
-#### By Deryck Jackson
+#### By Deryck Jackson and Vannesa Guerrero
 
 ## Description
 
-
+Simple webpage for practicing forEach loops
 
 ## Setup and Installation
 
 * Clone repo to your PC
-* Browse to _ _ directory
+* Browse to _looping-practice_ directory
 * Open _index.html_ in your browser
 
 ## Bugs
@@ -26,7 +26,7 @@ No bugs
 
 ### License
 
-Copyright © 2020 Deryck Jackson
+Copyright © 2020 Deryck Jackson and Vanessa Guerrero
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
